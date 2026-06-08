@@ -1,0 +1,14 @@
+{
+  "name": "tianyan-bot",
+  "version": "1.0.0",
+  "description": "Tianyan Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "googleapis": "^140.0.1",
+    "axios": "^1.7.2"
+  }
+}
